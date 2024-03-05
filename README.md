@@ -1,4 +1,5 @@
-Currency Converter
+Currency Converter:
+
 This Java program, CurrencyConverter, enables users to perform currency conversions using real-time exchange rates from the ExchangeRate API. It includes features to add favorite currencies, view/update their exchange rates, and convert amounts between them.
 
 Prerequisites
